@@ -2,10 +2,7 @@
 ___
 **아직은 미숙하지만 언젠가는 제가 배운 내용들이 git community 기여가 되길 바란다.**
 
-&nbsp;
->
-&nbsp;
->
+
 ## 📌 **기술 경험**  
 ---
 ## Frontent
@@ -14,18 +11,12 @@ ___
 ## Backend
 <img alt="Python" src ="https://img.shields.io/badge/java-282C34?logo=java&logoColor=90A6CB" height="25"/>
 &nbsp;<img alt="Python" src ="https://img.shields.io/badge/spring-282C34?logo=spring&logoColor=#90A6CB" height="25"/>&nbsp;
-&nbsp;
->
 
 ## Database
 <img alt="Python" src ="https://img.shields.io/badge/oracle-282C34?logo=oracle&logoColor=6F3C33" height="25"/>&nbsp;<img alt="Python" src ="https://img.shields.io/badge/mysql-282C34?logo=mysql&logoColor=90A6CB" height="25"/>&nbsp;
-&nbsp;
->
 
 ## Tools
 <img alt="Python" src ="https://img.shields.io/badge/vscode-282C34?logo=visual-studio-code&logoColor=239DEF" height="25"/>&nbsp;<img alt="Python" src ="https://img.shields.io/badge/intellij-282C34?logo=jetbrains&logoColor=20IDEA" height="25"/>&nbsp;
-&nbsp;
->
 
 &nbsp;
 ## 🖥️ **지금은 이런것을 배우고 있어요!**
